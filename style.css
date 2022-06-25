@@ -1,0 +1,29 @@
+body{
+    background-color: beige;
+}
+
+
+h1{
+font-family: cursive;
+color: burlywood;
+text-align: center;
+}
+
+.card{
+ background-color: burlywood; 
+    width: 500px; 
+    border-radius: 10px;
+    margin: 20px;
+    
+}
+
+
+#dish-name{
+color: aliceblue;
+}
+
+.div{
+    text-align: center;
+    display: flex;
+}
+
